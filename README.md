@@ -8,9 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * `mockapi.io` used for storing records
 * `redux-thunk` used to return defer-able functions from action creators. 
 
-## Available Scripts
+## Steps to run this repository
 
-In the project directory, you can run:
+### `npm install`
+
+Installs all the dependencies
 
 ### `npm start`
 
